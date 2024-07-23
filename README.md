@@ -4,3 +4,6 @@ https://www.satsig.net/pointing/finding-dish-offset-angle.htm, https://ftapinama
 
 All the equations and also the photo in the application is taken from the above two forums.
 
+
+
+![image](https://github.com/user-attachments/assets/435b6493-a2b1-4c45-8203-39d88b9d2e71)
